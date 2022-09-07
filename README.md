@@ -18,4 +18,4 @@ para o processamento das imagens.
 
 ## Tranferência de aprendizagem
 É uma técnica na qual uma rede neural foi treinada para realizar uma determinada tarefa e é reusada como ponto de partida para uma tarefa similar. Muito útil 
-porque reduz drasticamente o tempo de treinamento. No código foram re-treinadas apenas as 10 últimas camadas.
+porque reduz drasticamente o tempo de treinamento. No código foram re-treinadas apenas as 10 últimas camadas e criada uma camada densa com TF.
